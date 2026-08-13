@@ -7,23 +7,6 @@ Build an Enterprise Homelab from Scratch
 
 Atlas is a hands-on infrastructure and networking laboratory built around a virtualized Ubuntu server environment. The project documents the engineering process day by day: topology changes, configuration, experiments, troubleshooting, decisions, and lessons learned.
 
-## Progress
-
-| Day | Status | Focus |
-|---|---|---|
-| Day 01 | ✅ Completed | Preparing the Environment |
-| Day 02 | ✅ Completed | Birth of the Core Router |
-| Day 03 | ✅ Completed | Building the Internal Network |
-| Day 04 | ✅ Completed | IP Addressing the Network |
-| Day 05 | ✅ Completed | Basic Connectivity Testing |
-| Day 06 | ✅ Completed | First Server Deployment |
-| Day 07 | ✅ Completed | Static IP & Network Integration |
-| Day 08 | ✅ Completed | Internet Access & System Update |
-| Day 09 | ✅ Completed | Remote Administration & Server Preparation |
-| Day 10 | ✅ Completed | Docker Engine & First Container |
-| Day 11 | ✅ Completed | Docker Container Lifecycle & Restart Policy |
-| Day 12 | 🚧 In Progress | Docker Networking |
-
 ## Repository Structure
 
 ```text
