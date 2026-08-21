@@ -1,0 +1,17 @@
+# Software Inventory
+
+## Virtualization
+- Oracle VirtualBox
+
+## Networking
+- PuTTY
+- WinSCP
+- Wireshark
+
+## Development
+- VS Code
+- Notepad++
+
+## Utility
+- 7-Zip
+- Everything
